@@ -28,3 +28,15 @@ If you'd like to add a new flag or fix an error, please feel free to either:
 * Submit an issue
 * Submit a pull request
 * Contact me on Twitter: @vjo
+
+
+=======
+
+// Assuming we have a predefined list of flag colors 
+```const flagColors = { 'bz': ['#00ABDF', '#FFFFFF', '#D52B1E'], // Belize 
+'cr': ['#002B7F', '#FFFFFF', '#CE1126'], // Costa Rica
+'sv': ['#0047AB', '#FFFFFF', '#0047AB'], // El Salvador
+'gt': ['#4997D0', '#FFFFFF', '#4997D0'], // Guatemala
+'hn': ['#0073CF', '#FFFFFF', '#0073CF'], // Honduras
+'ni': ['#0067C7', '#FFFFFF', '#0067C7'], // Nicaragua
+'pa': ['#005AA7', '#FFFFFF', '#D52B1E'] // Panama };```
